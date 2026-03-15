@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 原始数据（含隐私）
+Churn_Modelling.csv
+*原始数据*.csv
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE配置
+.vscode/
+.idea/
